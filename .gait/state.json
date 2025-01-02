@@ -369,24 +369,162 @@
   },
   "kv_store": {
     "unique_matched_lines_count": 0,
-    "total_repo_line_count": 2044,
+    "total_repo_line_count": 292333,
     "best_prompt_response": null,
     "file_statistics": [
       {
-        "file": "code_Kaggle/demo.ipynb",
+        "file": ".idea/RAG_RAPTOR_aHuy_GraduationResearchProj_2024.iml",
+        "total_lines": 8,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": ".idea/inspectionProfiles/Project_Default.xml",
+        "total_lines": 6,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": ".idea/inspectionProfiles/profiles_settings.xml",
+        "total_lines": 6,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": ".idea/misc.xml",
+        "total_lines": 7,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": ".idea/modules.xml",
+        "total_lines": 8,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": ".idea/vcs.xml",
+        "total_lines": 7,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "code_Kaggle/1_Longrag_split_chunking.ipynb",
+        "total_lines": 1,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "code_Kaggle/2_meta_chunking.ipynb",
+        "total_lines": 1,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "code_Kaggle/2_raptor_chunking.ipynb",
+        "total_lines": 1,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "code_Kaggle/3_reranking.ipynb",
+        "total_lines": 11,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "code_Kaggle/3_search_baseline+bm25.ipynb",
+        "total_lines": 364,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "code_Kaggle/4_corefe_dongThamChieu.ipynb",
+        "total_lines": 1,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "code_Kaggle/4_test-rag-qa.ipynb",
+        "total_lines": 1,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "code_Kaggle/5_2FileJSON_Basic_GomContextAll_forGenerationModel3B.ipynb",
+        "total_lines": 1,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "code_Kaggle/5_chainOfPrompt_v1.ipynb",
+        "total_lines": 2406,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "code_Kaggle/5_chainOfPrompt_v2.ipynb",
+        "total_lines": 371,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "code_Kaggle/5_chainOfPrompt_v3_updatePrompting_shortAnswer.ipynb",
+        "total_lines": 484,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "code_Kaggle/5_chainOfPrompt_v4_.ipynb",
+        "total_lines": 806,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "code_Kaggle/5_chainOfPrompt_v5_change2ModelLocalInstedAPI_SimplePromptConvertFollow_BecauseBug.ipynb",
+        "total_lines": 1,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "code_Kaggle/[Kaggle]getDataaFromQDANT.ipynb",
+        "total_lines": 289,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "code_Kaggle/chunks_data_meta_200token.json",
+        "total_lines": 55772,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "dataset/LLM_chunk_200token_Vector_search_top20.json",
+        "total_lines": 17202,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "dataset/chunks_data_meta_200token.json",
+        "total_lines": 55772,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "dataset/embed_query.json",
+        "total_lines": 154602,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "note/demo_OriginalRaptor.ipynb",
         "total_lines": 338,
         "ai_generated_lines": 0,
         "ai_generated_percentage": 0
       },
       {
-        "file": "code_Kaggle/demo_Cuong.ipynb",
+        "file": "note/demo_RaptorCuong.ipynb",
         "total_lines": 1145,
-        "ai_generated_lines": 0,
-        "ai_generated_percentage": 0
-      },
-      {
-        "file": "code_Kaggle/raptor-rag.ipynb",
-        "total_lines": 1,
         "ai_generated_lines": 0,
         "ai_generated_percentage": 0
       },
@@ -398,7 +536,67 @@
       },
       {
         "file": "note/note1_patterns_RE.ipynb",
-        "total_lines": 428,
+        "total_lines": 418,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "note/note2_MetaChunking.ipynb",
+        "total_lines": 437,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "note/note2_chainOfPrompt.ipynb",
+        "total_lines": 48,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "readm.md",
+        "total_lines": 37,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "report/HuongDanDoAn.md",
+        "total_lines": 1,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "report/note_report/note1.2_Cuong_.ipynb",
+        "total_lines": 75,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "report/note_report/note1.3_MetaChunking.ipynb",
+        "total_lines": 175,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "report/note_report/note_report1.1_.ipynb",
+        "total_lines": 954,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "report/note_report/note_report1.2_RAPTOR.ipynb",
+        "total_lines": 430,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "report/note_report/report_Cuong_projectIII_ThucTapLab.md",
+        "total_lines": 14,
+        "ai_generated_lines": 0,
+        "ai_generated_percentage": 0
+      },
+      {
+        "file": "report/~$port_Cuong_projectIII_ThucTapLab.md",
+        "total_lines": 1,
         "ai_generated_lines": 0,
         "ai_generated_percentage": 0
       }

@@ -267,7 +267,7 @@ class TreeRetriever(BaseRetriever):
             start_layer (int): The layer to start from. Defaults to self.start_layer.
             num_layers (int): The number of layers to traverse. Defaults to self.num_layers.
             max_tokens (int): The maximum number of tokens. Defaults to 3500.
-            collapse_tree (bool): Whether to retrieve information from all nodes. Defaults to False.
+            collapse_tree (bool): Whether to retrieve information from all nodes. Defaults to True.
 
         Returns:
             str: The result of the query.
